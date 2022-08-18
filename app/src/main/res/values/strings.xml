@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScopedStorage</string>
+    <string name="shared_photos">Shared photos</string>
+    <string name="your_private_photos">Your private photos</string>
+    <string name="private_mode">Private mode</string>
+    <string name="photo_saved_successfully">Photo saved successfully</string>
+    <string name="failed_to_save_photo">Failed to save photo</string>
+    <string name="could_not_save_bitmap">Could not save bitmap</string>
+    <string name="failed_to_delete_photo">Failed to delete photo</string>
+    <string name="photo_deleted_successfully">Photo deleted successfully</string>
+</resources>
